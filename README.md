@@ -1,10 +1,9 @@
-# Movie-Recommendation-Project
+
+### Movie Recommendation System 
 
 
-50.038 COMPUTATIONAL DATA SCIENCE
+50.038 Computational Data Science 
 
-
-MOVIE RECOMMENDATION SYSTEM
 
 GROUP : MOVIE MAVERICKS
 
