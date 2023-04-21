@@ -1,17 +1,17 @@
 
-### Movie Recommendation System 
+# Movie Recommendation System 
 
 
-50.038 Computational Data Science 
+## 50.038 Computational Data Science 
 
 
-GROUP : MOVIE MAVERICKS
+Group Movie Mavericks
 
-SWASTIK MAJUMDAR 1005802
+Swastik Majumdar 1005802
 
-SAAKSHI VINOD SARAF 1005380
+Saakshi Vinod Saraf 1005380
 
-HARIKRISHNAN CHALAPATHY ANIRUDH 1005501
+Harikrishnan Chalapathy Anirudh 1005501
 
 
 Please navigate to the colab notebook in this repo. It contains our source code. 
